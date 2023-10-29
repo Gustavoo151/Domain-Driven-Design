@@ -1,0 +1,5 @@
+Aqui vamos fazer um modelo de dominio bastante simple que poderia ser a base de um aplicativo para a reserva
+de cargas.
+
+Podemos dizer que a responsabilidade do aplicativo dereservas é associar cada Carga (Cargo) a uma Viagem (Voyage),
+registrando e rastreando essa relaçãp.
